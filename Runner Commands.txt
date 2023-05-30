@@ -1,0 +1,2 @@
+cd "C:\Users\einew\Workspace\BMLD-2022-Informatik\Streamlit-Project-Lipa\Source\"
+streamlit run "Hello.py"
